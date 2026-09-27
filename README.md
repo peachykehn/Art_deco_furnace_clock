@@ -1,6 +1,6 @@
 # Art_deco_furnace_clock
 Made March 2024
-Uses nixie tube for numbers. Adafruit pixel leds diffused through a sanded strip of acrylic. Breathing furnace animation is from an arduino script. The effect is difficult to see on camera. 
+Uses four ИН-12Б Nixie tubes for the numbers, and two MTX-90 for the colon. Adafruit pixel leds diffused through a sanded strip of acrylic create the breathing furnace animation. An arduino script (nixiewave.ino) controls the animation. The effect is difficult to see on camera. 
 
 <img width="800" height="768" alt="nixieclock" src="https://github.com/user-attachments/assets/e5df1714-375f-4aa5-9001-72139837b842" />
 <img width="4096" height="3072" alt="P_20240226_143843" src="https://github.com/user-attachments/assets/2f3947fe-375e-4170-8023-67266521c0c7" />
